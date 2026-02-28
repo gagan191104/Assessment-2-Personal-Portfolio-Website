@@ -18,7 +18,7 @@ CSS
 
 ##Live Demo
 
-https://gagan191104.github.io/assessment-website/
+https://gagan191104.github.io/Assessment-2-Personal-Portfolio-Website/
 
 ##Author
 
