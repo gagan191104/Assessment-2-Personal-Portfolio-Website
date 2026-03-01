@@ -1,8 +1,8 @@
-##Assessment 2 Personal Portfolio Website
+# Assessment 2 Personal Portfolio Website
 
 This is my Personal Portfolio Website developed as part of Assessment 2. The website showcases my profile, technical skills, projects, and contact details in a structured and responsive layout.
 
-##Features
+## Features
 
 About Me section
 Skills section
@@ -11,16 +11,16 @@ Contact section
 Clean and structured design
 Responsive layout
 
-##Technologies Used
+## Technologies Used
 
 HTML
 CSS
 
-##Live Demo
+# Live Demo
 
 https://gagan191104.github.io/Assessment-2-Personal-Portfolio-Website/
 
-##Author
+## Author
 
 Gagan C V
 GitHub: https://github.com/gagan191104
